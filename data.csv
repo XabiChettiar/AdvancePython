@@ -1,0 +1,9 @@
+order_id,customer_name,city,product,category,quantity,price_per_unit,discount_percent,order_date,delivery_date,payment_mode,order_status,rating,seller_id
+6,Sara Ali,Delhi,Table Lamp,Home Decor,2,1500,20,1/20/2025,1/23/2025,Credit Card,Cancelled,4,5
+7,Rohit Gupta,Mumbai,Water Bottle,Kitchen,5,500,0,1/22/2025,1/24/2025,Cash,Delivered,2,3
+8,Kavita Joshi,Pune,Backpack,Accessories,1,3500,10,1/25/2025,1/29/2025,Debit Card,Cancelled,5,5
+9,Mohammed Faisal,Hyderabad,Keyboard,Electronics,1,1800,0,1/28/2025,2/1/2025,UPI,Cancelled,4,3
+1,Dr. Amit,Delhi,Laptop,Electronics,1,10000000,10,46024,45665,Credit Card,Pending,5,4
+2,Neha Verma,Mumbai,Headphones,Electronics,2,2500,0,45667,45669,UPI,Cancelled,4,5
+3,Dr. Rahul Khan,Delhi,Office Chair,Furniture,1,12000,15,45669,45677,Debit Card,Delivered,5,3
+4,Priya Singh,Bangalore,Notebook,Stationery,10,80,0,45672,45673,Cash,Pending,3,5
