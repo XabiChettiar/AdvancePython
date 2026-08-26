@@ -1,0 +1,147 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,order_status,city
+ORD-1001,2026-08-01,Aisha Khan,Wireless Headphones,Electronics,1,89.99,Credit Card,Delivered,New York
+ORD-1002,2026-08-02,Daniel Brooks,Running Shoes,Sportswear,2,64.5,PayPal,Shipped,Austin
+ORD-1003,2026-08-03,Meera Patel,Stainless Steel Bottle,Home & Kitchen,3,22.0,Debit Card,Processing,Chicago
+ORD-1004,2026-08-04,Lucas Martin,Laptop Backpack,Accessories,1,48.75,Credit Card,Delivered,Seattle
+ORD-1005,2026-08-05,Sofia Garcia,Organic Cotton T-Shirt,Clothing,2,19.99,Apple Pay,Cancelled,Miami
+ORD-1006,2026-08-06,Noah Wilson,Smart LED Desk Lamp,Home & Kitchen,1,35.0,PayPal,Shipped,Denver
