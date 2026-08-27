@@ -8,4 +8,4 @@ labels=['XXL', 'XL','XS']
 
 plt.pie(sizes,labels=labels, autopct="%d%%")
 
-plt.show()
+plt.show() 
