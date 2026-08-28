@@ -58,3 +58,42 @@ if (meanReadyToMove > meanUnderConstruction):
     print('\nready to move is costlier')
 else:
     print('\nunder construction is costlier')
+
+
+
+#Question 5: Does RERA approval affect pricing?
+
+reraApprovedMean=df[df['rera_approval']==True]['price'].mean()
+reraNotApprovedMean=df[df['rera_approval']==False]['price'].mean()
+
+if (reraApprovedMean > reraNotApprovedMean):
+    print('rera approval affect pricing')
+else:
+    print('rera approval doesnot affect pricing')
+
+
+#Question 6: How does area impact price?
+
+# sns.scatterplot(data=df, x='area', y='price')
+# plt.show()
+
+#Question 7: Which BHK configuration is most expensive?
+
+mostExpensiveBhk=df.groupby('bhk_count')['rate_per_sqft'].mean().idxmax()
+print(f'\n The most expensive bhk is {mostExpensiveBhk}')
+
+#Question 8: Which property type is the costliest?
+
+mostExpensivePropertyType = df.groupby('flat_type')['rate_per_sqft'].mean().idxmax()
+print(f'\n The most expensive property type is {mostExpensivePropertyType}\n')
+
+
+#Question 9: Do certain builders price higher?
+
+print(df.groupby('company_name')['rate_per_sqft'].mean().sort_values(ascending=False).head(5))
+
+
+#Question 10: Are larger homes more expensive per sqft?
+
+sns.scatterplot(data=df, x='area', y='rate_per_sqft')
+plt.show()
